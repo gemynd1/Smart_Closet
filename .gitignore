@@ -1,2 +1,37 @@
 .env
 .venv312
+
+# B
+.venv
+
+Training
+Validation
+labeled_fashion_data.csv
+labeled_fashion_data(polygon_features).csv
+cropped_images
+cropped_images_metadata.csv
+yolo_labels
+yolo_images
+fashion_dataset
+test_results
+fashion_classifier_model
+__pycache__
+yolo_images.cache
+pipeline_cropped_images
+yolo11n.pt
+yolov8n.pt
+
+Alpha.ipynb
+make_trainingDataset_toCSV.py
+make_trainingDataset(maybe X).py
+polygon_feature_calculator.py
+yolo_dataset_splitter.py
+yolo_image_folder_maker.py
+yolo_predict_cropped_image.py
+yolo_txt_maker.py
+train_manual.py
+predict_classifier.py
+my_fashion_dataset.yaml
+
+IMG_3260.jpg
+IMG_3261.jpg
