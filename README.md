@@ -1,3 +1,10 @@
+## 연구 논문 원고 (Manuscript)
+
+본 문서는 **논문 형식으로 작성된 연구 원고**이며,  
+**학회 또는 저널에 등재된 공식 논문은 아닙니다.**
+
+[논문 PDF 보기](작성%20논문/LLM%2B기반%2B대화형%2B스마트%2B옷장%2B시스템_20253818_백지민.pdf)
+
 # 👕 Smart Closet (스마트 클로젯)
 
 <img width="1536" height="1024" alt="smart closet 16 9" src="https://github.com/user-attachments/assets/11757343-f848-4d46-8421-8880fdb5748e" />
